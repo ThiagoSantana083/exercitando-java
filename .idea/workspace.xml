@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb58198-4ce7-4946-af35-39ae5bd32835" name="Changes" comment="adicionando arquivos no github">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/colecoesEordenacao/Agenda/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/colecoesEordenacao/Agenda/ContatoPorIdadeComparator.java" afterDir="false" />
+    <list default="true" id="bfb58198-4ce7-4946-af35-39ae5bd32835" name="Changes" comment="Estudo e exercício de comparable e comparator realizado. Estudo de ordenação feito em projeto de agenda de contatos com base em nome e idade e método de adicionar contato em agenda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +39,22 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2mALmPdb0YMwBzrQQba86DZTT9c" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgendaMain.executor": "Run",
+    "Application.GerenciamentoMain.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/thiag/Documents/Documentos Thiago/Estudos Programação/programação/estudos/screenshots-de-codigo",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -73,11 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726514681998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Estudo e exercício de comparable e comparator realizado. Estudo de ordenação feito em projeto de agenda de contatos com base em nome e idade e método de adicionar contato em agenda">
+      <option name="closed" value="true" />
+      <created>1726688601386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726688601387</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adicionando arquivos no github" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando arquivos no github" />
+    <MESSAGE value="Estudo e exercício de comparable e comparator realizado. Estudo de ordenação feito em projeto de agenda de contatos com base em nome e idade e método de adicionar contato em agenda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudo e exercício de comparable e comparator realizado. Estudo de ordenação feito em projeto de agenda de contatos com base em nome e idade e método de adicionar contato em agenda" />
   </component>
 </project>

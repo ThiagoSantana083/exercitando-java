@@ -1,7 +1,6 @@
-import classes.colecoesEordenacao.Agenda.Agenda;
-import classes.colecoesEordenacao.Agenda.Contato;
+package classes.colecoesEordenacao.Agenda;
 
-public class Main {
+public class AgendaMain {
     public static void main(String[] args) {
         // Manipulações de teste para coleções e ordenação (projeto de contato feito)
         Contato thiago = new Contato("Thiago", 83989567489L, 18, "example1@gmail");
