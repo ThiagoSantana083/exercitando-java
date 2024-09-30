@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb58198-4ce7-4946-af35-39ae5bd32835" name="Changes" comment="Exercício de comparable e comparator realizado. Estudo de ordenação feito em projeto de sistema de gerenciamento de alunos com base em nome,idade,número de matrícula e média de notas dos alunos e método de adicionar aluno no sistema">
+    <list default="true" id="bfb58198-4ce7-4946-af35-39ae5bd32835" name="Changes" comment="Exercício de comparable e comparator com wildcards realizado. Estudo de ordenação feito em projeto de sistema de gerenciamento de veiculos com base em modelo,preço e tipo de veiculo. Com método de adicionar veiculo no sistema">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AgendaMain.executor": "Run",
+    "Application.BibliotecaMain.executor": "Run",
     "Application.GerenciamentoMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SistemaCadastroMain.executor": "Run",
@@ -91,13 +92,22 @@
       <option name="project" value="LOCAL" />
       <updated>1726770864644</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercício de comparable e comparator com wildcards realizado. Estudo de ordenação feito em projeto de sistema de gerenciamento de veiculos com base em modelo,preço e tipo de veiculo. Com método de adicionar veiculo no sistema">
+      <option name="closed" value="true" />
+      <created>1727130488946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727130488946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adicionando arquivos no github" />
     <MESSAGE value="Estudo e exercício de comparable e comparator realizado. Estudo de ordenação feito em projeto de agenda de contatos com base em nome e idade e método de adicionar contato em agenda" />
     <MESSAGE value="Exercício de comparable e comparator realizado. Estudo de ordenação feito em projeto de sistema de gerenciamento de alunos com base em nome,idade,número de matrícula e média de notas dos alunos e método de adicionar aluno no sistema" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício de comparable e comparator realizado. Estudo de ordenação feito em projeto de sistema de gerenciamento de alunos com base em nome,idade,número de matrícula e média de notas dos alunos e método de adicionar aluno no sistema" />
+    <MESSAGE value="Exercício de comparable e comparator com wildcards realizado. Estudo de ordenação feito em projeto de sistema de gerenciamento de veiculos com base em modelo,preço e tipo de veiculo. Com método de adicionar veiculo no sistema" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de comparable e comparator com wildcards realizado. Estudo de ordenação feito em projeto de sistema de gerenciamento de veiculos com base em modelo,preço e tipo de veiculo. Com método de adicionar veiculo no sistema" />
   </component>
 </project>
